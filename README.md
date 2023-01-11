@@ -27,9 +27,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Kanban Restaurant Project] <a name="about-project"></a>
+# 📖 [Mathmatic App Using React] <a name="about-project"></a>
 
-> This project is created for restaurant that people can only give commend and give like to meals that the want. In this project we have used the mealDB API [https://www.themealdb.com/api.php] for displying the items in the page, for like and comment part of the project we have used the Involvement API [https://www.notion.so/Involvement-API-869e60b5ad104603aa6db59e08150270]. We have added 7 test cases for this project up to now.
+> Under constraction ....
 
 ## 🛠 Built With <a name="built-with"></a>
   <ul>
