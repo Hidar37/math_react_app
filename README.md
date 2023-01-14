@@ -29,7 +29,7 @@
 
 # 📖 [Mathmatic App Using React] <a name="about-project"></a>
 
-> Under constraction ....
+> This project is build with React.js. For now I have only created the UI of the application but in coming days i am going to add all the button functionality.
 
 ## 🛠 Built With <a name="built-with"></a>
   <ul>
