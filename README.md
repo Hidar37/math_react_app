@@ -75,7 +75,8 @@ In order to run this project you need:
 
 To run the project, execute the following command:
 
-> Go to that downloaded folder and open the dist/index.html file and your good to go.
+> Run the [npm start] command in your terminal.
+> Open the project manually: Go to that downloaded folder and open the dist/index.html file and your good to go.
 
 ### Run tests
 > no test add until this part.
@@ -92,18 +93,6 @@ To run the project, execute the following command:
 - GitHub: [@Hidar37](https://github.com/Hidar37)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
-- [ ] **[Adding test cases]**
-- [ ] **[Adding more functionality]**
-- [ ] **[Using some API for displaing weather in the project side-bar]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- SUPPORT -->
 
