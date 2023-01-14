@@ -1,0 +1,54 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  font-family: cursive, sans-serif;
+}
+
+/* Main Container */
+.wrapper {
+  width: 40%;
+  margin: 5rem auto;
+}
+
+/* Result Section */
+.result {
+  text-align: right;
+  padding: 0.5rem;
+  font-size: 1.3rem;
+  background-color: #808080;
+  color: #fff;
+}
+
+/* Button Wrapper */
+.btn-nums-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.btn-nums-wrapper button.operation {
+  background-color: #ff8b3d;
+}
+
+.btn-nums-wrapper button {
+  border: 1px solid #808080;
+  outline: none;
+  font-size: 1rem;
+  background-color: #ebecf0;
+  text-align: center;
+  padding: 1rem;
+  width: 25%;
+  transition: all 0.3s;
+}
+
+.btn-nums-wrapper #zero {
+  width: 50%;
+}
+
+.btn-nums-wrapper button:hover {
+  background-color: #d5d6d6;
+}
+
+.btn-nums-wrapper button[class='operation']:hover {
+  background-color: #f8b88d;
+}
