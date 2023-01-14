@@ -45,34 +45,15 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Display All Items from mealDB API]**
-- **[Add New Comment]**
-- **[Like meals]**
-- **[Display number of like for diffrent Meals]**
-- **[Display number of comments for diffrent Meals]**
-- **[Fully Created with ES6]**
-- **[Fullty tested with jest testing framework]**
+- **[User friendly UI]**
+- **[fully functional Calcuator]**
+- **[fully Responsive]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Kanban Borad <a name="kanban">https://github.com/Hidar37/kanban_restaurant_project/projects/1</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Explaining Project Video <a name="project-video">https://drive.google.com/file/d/1RYCKD4TH2wGO8_fK4P4JL2dnyfrqZ-8F/view?usp=sharing</a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
@@ -84,7 +65,7 @@ In order to run this project you need:
 ### Setup
 
 - In order to Clone this repository to your PC please follow the below steps:
- > copy this link [https://github.com/Hidar37/kanban_restaurant_project]
+ > copy this link [https://github.com/Hidar37/math_react_app]
  > Open your (cmd) or (git bash) and type [cd desktop] to change the directore and selec the desktop
  > go to your (cmd) or (git bash) and type this command [git clone <copy the repo link>] the repo will be save to your desktop.
  > run the [npm install]
@@ -97,23 +78,18 @@ To run the project, execute the following command:
 > Go to that downloaded folder and open the dist/index.html file and your good to go.
 
 ### Run tests
-> 7 Test cases have been used 
-> In CMD you can type [ npm test ] in order to see the test cases result.
+> no test add until this part.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors">Haider Ahamd & Habitamu Asimare</a>
+## 👥 Authors <a name="authors">Haider Ahamd</a>
 
 > Mention all of the collaborators of this project.
 👤 **Author1**
 
 - GitHub: [@Hidar37](https://github.com/Hidar37)
-
-👤 **Author2**
-
-- GitHub: [@habasm](https://github.com/habasm)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -122,9 +98,9 @@ To run the project, execute the following command:
 ## 🔭 Future Features <a name="future-features"></a>
 
 > Describe 1 - 3 features you will add to the project.
-- [ ] **[Expanding test cases]**
-- [ ] **[Connecting Project to Database]**
-- [ ] **[Adding New Style to the Project]**
+- [ ] **[Adding test cases]**
+- [ ] **[Adding more functionality]**
+- [ ] **[Using some API for displaing weather in the project side-bar]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
